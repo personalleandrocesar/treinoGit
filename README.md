@@ -1,13 +1,32 @@
 # Treinando o Git
 
 ## Untracked
+- Não marcado: Arquivo adicionado que o git não viu!
 
 ## Unmodified
+- Existe no git, mas não foi modificado!
 
 ## Modified
+- O git já o conhece, mas foi modificado. Precisa de um commit para ser adicionado!
 
 ## staged
-
+- Momento de criação de uma imagem/versão/hash no github.
 - Fazendo uma alteração!
 
-Outra alteração para ver o git diff
+## git log
+
+## git log --decorate
+
+## git log --author="leandro"
+
+## git shortlog
+
+## git shortlog -sn
+
+## git log --graph
+
+## git diff
+
+## git diff --name-only
+
+
