@@ -27,3 +27,5 @@
 
 ## git reset HEAD <arquivo> 
 - Reseta o commit feito por tal arquivo!!
+
+[![Botão](https://leandrocesar.com)](https://leandrocesar.com)
