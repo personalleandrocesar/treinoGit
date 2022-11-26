@@ -14,19 +14,16 @@
 - Fazendo uma alteração!
 
 ## git log
+	## git log --decorate
+	## git log --author="leandro"
+	## git shortlog
+	## git shortlog -sn
+	## git log --graph
+	## git diff
+	## git diff --name-only
 
-## git log --decorate
+## git checkout <arquivo> ou git restore <arquivo>
+- Volta as modificações do arquivo que não foram comitados!
 
-## git log --author="leandro"
-
-## git shortlog
-
-## git shortlog -sn
-
-## git log --graph
-
-## git diff
-
-## git diff --name-only
-
-
+## git reset HEAD <arquivo> 
+- Reseta o commit feito por tal arquivo!!
