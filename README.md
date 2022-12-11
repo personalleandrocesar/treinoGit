@@ -57,4 +57,10 @@
 ## para deletar o mesmo no github: git push origin :1.0.0
 ## para deletar uma branch da mesma forma: git push origin :teste
 
+## Voltando uma hash
+git reset --hard 77c7152572838c75aa09eb84fb0d493fb0c935a6DD
+
+## fazendo o comando na nuvem!
+git reset --hard ORIG_HEAD
+
 [![Botão](https://leandrocesar.com/img/favicon.ico)](https://leandrocesar.com)
